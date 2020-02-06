@@ -1,0 +1,11 @@
+C:\Users\oomishope\source\repos\Lab 4.2 Movie App\Lab 4.2 Movie App\bin\Debug\netcoreapp3.1\Lab 4.2 Movie App.exe
+C:\Users\oomishope\source\repos\Lab 4.2 Movie App\Lab 4.2 Movie App\bin\Debug\netcoreapp3.1\Lab 4.2 Movie App.deps.json
+C:\Users\oomishope\source\repos\Lab 4.2 Movie App\Lab 4.2 Movie App\bin\Debug\netcoreapp3.1\Lab 4.2 Movie App.runtimeconfig.json
+C:\Users\oomishope\source\repos\Lab 4.2 Movie App\Lab 4.2 Movie App\bin\Debug\netcoreapp3.1\Lab 4.2 Movie App.runtimeconfig.dev.json
+C:\Users\oomishope\source\repos\Lab 4.2 Movie App\Lab 4.2 Movie App\bin\Debug\netcoreapp3.1\Lab 4.2 Movie App.dll
+C:\Users\oomishope\source\repos\Lab 4.2 Movie App\Lab 4.2 Movie App\bin\Debug\netcoreapp3.1\Lab 4.2 Movie App.pdb
+C:\Users\oomishope\source\repos\Lab 4.2 Movie App\Lab 4.2 Movie App\obj\Debug\netcoreapp3.1\Lab 4.2 Movie App.csprojAssemblyReference.cache
+C:\Users\oomishope\source\repos\Lab 4.2 Movie App\Lab 4.2 Movie App\obj\Debug\netcoreapp3.1\Lab 4.2 Movie App.AssemblyInfoInputs.cache
+C:\Users\oomishope\source\repos\Lab 4.2 Movie App\Lab 4.2 Movie App\obj\Debug\netcoreapp3.1\Lab 4.2 Movie App.AssemblyInfo.cs
+C:\Users\oomishope\source\repos\Lab 4.2 Movie App\Lab 4.2 Movie App\obj\Debug\netcoreapp3.1\Lab 4.2 Movie App.dll
+C:\Users\oomishope\source\repos\Lab 4.2 Movie App\Lab 4.2 Movie App\obj\Debug\netcoreapp3.1\Lab 4.2 Movie App.pdb
